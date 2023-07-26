@@ -1,0 +1,10 @@
+* cl-ascii-art
+
+Ascii Art generating routines.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Blue-Sky-Skunkworks/cl-ascii-art.git   |
+| commit  | 7e8a320  |
+| systems | cl-ascii-art |
+|---------+-------------------------------------------|
+
